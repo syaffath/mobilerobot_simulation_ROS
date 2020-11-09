@@ -9,5 +9,4 @@ Mobile robot simulation using Ubuntu WSL (Windows Subsystem for Linux) .
 
 # This repository contains
 1. urdf file --> for mobile robot modeling
-2. xacro format --> To make urdf into modular code, thus user-friendly
 3. gazebo plugins --> for robot motion
